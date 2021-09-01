@@ -1,0 +1,4 @@
+1. Run mongodb server first (mongod --config /usr/local/etc/mongod.conf --fork)
+
+2. nodemon on project dir
+
